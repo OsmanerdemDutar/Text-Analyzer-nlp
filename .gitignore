@@ -1,0 +1,16 @@
+# Python bytecode (Sistemin oluşturduğu gereksiz hızlandırma dosyaları)
+__pycache__/
+*.pyc
+
+# Local Data (Kendi bilgisayarındaki test çıktılarını yükleme)
+data/output.txt
+
+# IDE Settings (Kullandığın kod editörünün kişisel ayarları)
+.vscode/
+.idea/
+
+# OS generated files (İşletim sisteminin çöp dosyaları)
+.DS_Store
+Thumbs.db
+
+b2230356007.zip
